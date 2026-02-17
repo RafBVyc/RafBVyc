@@ -14,15 +14,3 @@ I am an Information Systems student with a interest in backend systems, cloud in
 ### Focus Areas... Sort of wondering who I’ll become later on
 * **Backend Development**: Building logic and efficient data processing.
 * **DevOps**: Automating workflows and maintaining system reliability.
-
----
-
-## 📊 GitHub Statistics
-
-![Rafi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RafBVyc&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafBVyc&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
-## 📫 Connectivity
-* **GitHub**: [RafBVyc](https://github.com/RafBVyc)
