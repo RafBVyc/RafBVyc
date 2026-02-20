@@ -1,4 +1,4 @@
-# Technical Profile: Rafi
+# Rafi Thorif
 
 Information Systems student with an interest in backend development, cloud infrastructure, and DevOps automation. Currently building small backend projects, learning Linux fundamentals, and practicing clean code with GitHub workflows.
 
